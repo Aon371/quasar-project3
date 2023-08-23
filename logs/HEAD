@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 1ec28924b110836db5a9c7e874767e7f3c69c706 Aon371 <tuypasyyy@gmail.com> 1692760170 +0700	commit (initial): 1st project-quasar
+1ec28924b110836db5a9c7e874767e7f3c69c706 1ec28924b110836db5a9c7e874767e7f3c69c706 Aon371 <tuypasyyy@gmail.com> 1692760386 +0700	checkout: moving from master to eng-lang
+1ec28924b110836db5a9c7e874767e7f3c69c706 2402c669f2c2b2f4504482c87dc25ae59521ebb7 Aon371 <tuypasyyy@gmail.com> 1692760901 +0700	commit: Add template part
+2402c669f2c2b2f4504482c87dc25ae59521ebb7 b34ec152a9581669bee1ec4cf1822d4eaf6ac31c Aon371 <tuypasyyy@gmail.com> 1692762094 +0700	commit: Add script part
+b34ec152a9581669bee1ec4cf1822d4eaf6ac31c b34ec152a9581669bee1ec4cf1822d4eaf6ac31c Aon371 <tuypasyyy@gmail.com> 1692762422 +0700	checkout: moving from eng-lang to thai-lang
+b34ec152a9581669bee1ec4cf1822d4eaf6ac31c 14211f44c7d9a413d9e9285fda9acc6bcde775a0 Aon371 <tuypasyyy@gmail.com> 1692763000 +0700	commit: Change label to Thai language in IndexPage.vue
+14211f44c7d9a413d9e9285fda9acc6bcde775a0 1ec28924b110836db5a9c7e874767e7f3c69c706 Aon371 <tuypasyyy@gmail.com> 1692763488 +0700	checkout: moving from thai-lang to master
+1ec28924b110836db5a9c7e874767e7f3c69c706 b34ec152a9581669bee1ec4cf1822d4eaf6ac31c Aon371 <tuypasyyy@gmail.com> 1692763551 +0700	merge eng-lang: Fast-forward
+b34ec152a9581669bee1ec4cf1822d4eaf6ac31c 14211f44c7d9a413d9e9285fda9acc6bcde775a0 Aon371 <tuypasyyy@gmail.com> 1692763737 +0700	merge thai-lang: Fast-forward
